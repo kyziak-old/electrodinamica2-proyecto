@@ -1,7 +1,11 @@
 # Environments
-
 .venv
 
 # Jupyter notebook
 .ipynb_checkpoints/
 .virtual_documents/
+
+# IDEs
+.idea/
+.vscode/
+.DS_Store
