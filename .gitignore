@@ -1,6 +1,9 @@
 # Environments
 .venv
+
+# files
 tmp*
+*.pdf
 
 # Jupyter notebook
 .ipynb_checkpoints/
