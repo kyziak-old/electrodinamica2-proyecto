@@ -8,6 +8,7 @@ tmp*
 # Jupyter notebook
 .ipynb_checkpoints/
 .virtual_documents/
+ProyectoElectro*
 
 # IDEs
 .idea/
